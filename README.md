@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=divice=width, initial-scale=1.0">
   <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-  <title>Coding With Akshat</title>
+  <title>Coding With Akshat</title><br>
 </head>
 <body>
   <header class="text-gray-700 body-font">
@@ -15,11 +15,11 @@
       </svg>
       <span class="ml-3 text-xl">Technical codes By Akshat Jain</span>
     </a>
-    <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-      <a href="\"class="mr-5 hover:text-gray-900">Home</a>
-      <a href="\"class="mr-5 hover:text-gray-900">About</a>
-      <a href="\"class="mr-5 hover:text-gray-900">Services</a>
-      <a href="\"class="mr-5 hover:text-gray-900">Contact</a>
+    <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center"><br>
+      <a href="\"class="mr-5 hover:text-gray-900">Home</a><br>
+      <a href="\"class="mr-5 hover:text-gray-900">About</a><br>
+      <a href="\"class="mr-5 hover:text-gray-900">Services</a><br>
+      <a href="\"class="mr-5 hover:text-gray-900">Contact</a><br>
     </nav>
     <button class="inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0"><a href="\">Visit Now</a>
       <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
